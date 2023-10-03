@@ -39,7 +39,10 @@ public class AppDbContext : DbContext
             .HasColumnType("decimal(18,2)");
         modelBuilder.Entity<Item>().HasData(SeedBooks());
     }
-
+    /// <summary>
+    /// Seed the database with some books.
+    /// </summary>
+    /// <returns></returns>
     private static IEnumerable<Item> SeedBooks()
     {
         yield return new Item
