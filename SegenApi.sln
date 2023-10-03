@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiTests", "ApiTests\ApiTests.csproj", "{14E7D730-E405-4C2E-9920-905872F32180}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SegenApi", "SegenApi\SegenApi.csproj", "{53348DC0-EFE9-4689-9F44-A9FB6CF642C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14E7D730-E405-4C2E-9920-905872F32180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E7D730-E405-4C2E-9920-905872F32180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E7D730-E405-4C2E-9920-905872F32180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E7D730-E405-4C2E-9920-905872F32180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53348DC0-EFE9-4689-9F44-A9FB6CF642C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53348DC0-EFE9-4689-9F44-A9FB6CF642C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53348DC0-EFE9-4689-9F44-A9FB6CF642C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53348DC0-EFE9-4689-9F44-A9FB6CF642C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0487941E-8DA0-49C5-8541-905EA824432C}
+	EndGlobalSection
+EndGlobal

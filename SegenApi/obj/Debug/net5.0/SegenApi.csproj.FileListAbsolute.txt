@@ -1,0 +1,103 @@
+C:\PandaApi\PandaApi\bin\Debug\net5.0\appsettings.Development.json
+C:\PandaApi\PandaApi\bin\Debug\net5.0\appsettings.json
+C:\PandaApi\PandaApi\bin\Debug\net5.0\SegenApi.exe
+C:\PandaApi\PandaApi\bin\Debug\net5.0\SegenApi.deps.json
+C:\PandaApi\PandaApi\bin\Debug\net5.0\SegenApi.runtimeconfig.json
+C:\PandaApi\PandaApi\bin\Debug\net5.0\SegenApi.runtimeconfig.dev.json
+C:\PandaApi\PandaApi\bin\Debug\net5.0\SegenApi.dll
+C:\PandaApi\PandaApi\bin\Debug\net5.0\SegenApi.pdb
+C:\PandaApi\PandaApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\PandaApi\PandaApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PandaApi\PandaApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PandaApi\PandaApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PandaApi\PandaApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\PandaApi\PandaApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\PandaApi\PandaApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\PandaApi\PandaApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\PandaApi\PandaApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\PandaApi\PandaApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\PandaApi\PandaApi\obj\Debug\net5.0\SegenApi.csproj.AssemblyReference.cache
+C:\PandaApi\PandaApi\obj\Debug\net5.0\SegenApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\PandaApi\PandaApi\obj\Debug\net5.0\SegenApi.AssemblyInfoInputs.cache
+C:\PandaApi\PandaApi\obj\Debug\net5.0\SegenApi.AssemblyInfo.cs
+C:\PandaApi\PandaApi\obj\Debug\net5.0\SegenApi.csproj.CoreCompileInputs.cache
+C:\PandaApi\PandaApi\obj\Debug\net5.0\SegenApi.MvcApplicationPartsAssemblyInfo.cs
+C:\PandaApi\PandaApi\obj\Debug\net5.0\SegenApi.MvcApplicationPartsAssemblyInfo.cache
+C:\PandaApi\PandaApi\obj\Debug\net5.0\staticwebassets\SegenApi.StaticWebAssets.Manifest.cache
+C:\PandaApi\PandaApi\obj\Debug\net5.0\scopedcss\bundle\SegenApi.styles.css
+C:\PandaApi\PandaApi\obj\Debug\net5.0\SegenApi.RazorTargetAssemblyInfo.cache
+C:\PandaApi\PandaApi\obj\Debug\net5.0\SegenApi.csproj.CopyComplete
+C:\PandaApi\PandaApi\obj\Debug\net5.0\SegenApi.dll
+C:\PandaApi\PandaApi\obj\Debug\net5.0\ref\SegenApi.dll
+C:\PandaApi\PandaApi\obj\Debug\net5.0\SegenApi.pdb
+C:\PandaApi\PandaApi\obj\Debug\net5.0\SegenApi.genruntimeconfig.cache
+C:\PandaApi\PandaApi\bin\Debug\net5.0\SegenApi.StaticWebAssets.xml
+C:\PandaApi\PandaApi\obj\Debug\net5.0\refint\SegenApi.dll
+C:\SegenApi\SegenApi\bin\Debug\net5.0\appsettings.Development.json
+C:\SegenApi\SegenApi\bin\Debug\net5.0\appsettings.json
+C:\SegenApi\SegenApi\bin\Debug\net5.0\SegenApi.exe
+C:\SegenApi\SegenApi\bin\Debug\net5.0\SegenApi.deps.json
+C:\SegenApi\SegenApi\bin\Debug\net5.0\SegenApi.runtimeconfig.json
+C:\SegenApi\SegenApi\bin\Debug\net5.0\SegenApi.runtimeconfig.dev.json
+C:\SegenApi\SegenApi\bin\Debug\net5.0\SegenApi.dll
+C:\SegenApi\SegenApi\bin\Debug\net5.0\SegenApi.pdb
+C:\SegenApi\SegenApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\SegenApi\SegenApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SegenApi\SegenApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SegenApi\SegenApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SegenApi\SegenApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\SegenApi\SegenApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\SegenApi\SegenApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\SegenApi\SegenApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\SegenApi\SegenApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\SegenApi\SegenApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.csproj.AssemblyReference.cache
+C:\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.AssemblyInfoInputs.cache
+C:\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.AssemblyInfo.cs
+C:\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.csproj.CoreCompileInputs.cache
+C:\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.MvcApplicationPartsAssemblyInfo.cs
+C:\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.MvcApplicationPartsAssemblyInfo.cache
+C:\SegenApi\SegenApi\obj\Debug\net5.0\scopedcss\bundle\SegenApi.styles.css
+C:\SegenApi\SegenApi\obj\Debug\net5.0\staticwebassets\SegenApi.StaticWebAssets.Manifest.cache
+C:\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.RazorTargetAssemblyInfo.cache
+C:\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.csproj.CopyComplete
+C:\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.dll
+C:\SegenApi\SegenApi\obj\Debug\net5.0\refint\SegenApi.dll
+C:\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.pdb
+C:\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.genruntimeconfig.cache
+C:\SegenApi\SegenApi\obj\Debug\net5.0\ref\SegenApi.dll
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\appsettings.json
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\SegenApi.exe
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\SegenApi.deps.json
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\SegenApi.runtimeconfig.json
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\SegenApi.runtimeconfig.dev.json
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\SegenApi.dll
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\SegenApi.pdb
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.csproj.AssemblyReference.cache
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.AssemblyInfoInputs.cache
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.AssemblyInfo.cs
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.csproj.CoreCompileInputs.cache
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\scopedcss\bundle\SegenApi.styles.css
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\staticwebassets\SegenApi.StaticWebAssets.Manifest.cache
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.RazorTargetAssemblyInfo.cache
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.csproj.CopyComplete
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.dll
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\refint\SegenApi.dll
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.pdb
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\SegenApi.genruntimeconfig.cache
+C:\Users\srinivas.kodukula\Downloads\tech test\SegenApi\SegenApi\obj\Debug\net5.0\ref\SegenApi.dll
